@@ -68,7 +68,7 @@ nav {
   .navigation-menu ul li {
     margin: 0;
   }
-  .navigation-menu a:hover{
+  .navigation-menu a:hover {
     color: var(--primary-color);
   }
 }
